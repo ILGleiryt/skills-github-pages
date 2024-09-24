@@ -1,6 +1,10 @@
 ---
 title: Welcome to my blog
 ---
-#Hi all
-There is my blog
+
+#Hi everyone!
+- [ ] Start
+- [ ] Some
+- [ ] End
+
 
